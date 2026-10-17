@@ -1,0 +1,78 @@
+{"id": "RT01", "split": "train", "query": "Our Cisco router keeps dropping WAN links, what parts should we replace?", "labels": ["technology"]}
+{"id": "RT02", "split": "train", "query": "Compare the Catalyst 8200 and 8300 for a branch office", "labels": ["technology"]}
+{"id": "RT03", "split": "train", "query": "How does Google Cloud support the Model Context Protocol?", "labels": ["technology"]}
+{"id": "RT04", "split": "train", "query": "Design a RAG architecture on Google Cloud for our documents", "labels": ["technology"]}
+{"id": "RT05", "split": "train", "query": "What IPsec throughput does the ASR 1000 deliver?", "labels": ["technology"]}
+{"id": "RT06", "split": "train", "query": "Which Agilent instrument should our lab buy for cell metabolism assays?", "labels": ["clinical"]}
+{"id": "RT07", "split": "train", "query": "What does research say about machine learning for heart attack prediction?", "labels": ["clinical"]}
+{"id": "RT08", "split": "train", "query": "Find completed clinical trials on continuous glucose monitoring", "labels": ["clinical"]}
+{"id": "RT09", "split": "train", "query": "Recommend a digital pathology scanner for our hospital", "labels": ["clinical"]}
+{"id": "RT10", "split": "train", "query": "How accurate are deep learning models at detecting COVID-19 from lung images?", "labels": ["clinical"]}
+{"id": "RT11", "split": "train", "query": "Summarize Cisco's risk factors from its latest 10-K", "labels": ["sec"]}
+{"id": "RT12", "split": "train", "query": "How did Agilent's revenue and margins change in fiscal 2025?", "labels": ["sec"]}
+{"id": "RT13", "split": "train", "query": "What is Cisco's debt and cash position?", "labels": ["sec"]}
+{"id": "RT14", "split": "train", "query": "Compare competitive risks disclosed by Cisco and Agilent", "labels": ["sec"]}
+{"id": "RT15", "split": "train", "query": "What antitrust risks does Alphabet disclose in its 10-K?", "labels": ["sec"]}
+{"id": "RT16", "split": "train", "query": "How many people are chronically hungry in the world?", "labels": ["csr"]}
+{"id": "RT17", "split": "train", "query": "What ESG initiatives improve food security?", "labels": ["csr"]}
+{"id": "RT18", "split": "train", "query": "How affordable is a healthy diet in low-income countries?", "labels": ["csr"]}
+{"id": "RT19", "split": "train", "query": "What is the state of child stunting and wasting?", "labels": ["csr"]}
+{"id": "RT20", "split": "train", "query": "What should we add to an order with a Bosch control panel?", "labels": ["procurement"]}
+{"id": "RT21", "split": "train", "query": "Which security cameras are often bought together with NVRs?", "labels": ["procurement"]}
+{"id": "RT22", "split": "train", "query": "Recommend a bundle of smoke and CO detectors for a new site", "labels": ["procurement"]}
+{"id": "RT23", "split": "train", "query": "Is Cisco a financially safe vendor for our network refresh, and which routers fit?", "labels": ["technology", "sec"]}
+{"id": "RT24", "split": "train", "query": "Could cloud data platforms help NGOs reduce hunger, and what tech should they deploy?", "labels": ["csr", "technology"]}
+{"id": "RT25", "split": "train", "query": "Should our hospital rely on Agilent given its financial risks, and which instruments fit?", "labels": ["clinical", "sec"]}
+{"id": "RQ01", "split": "test", "query": "Our Cisco enterprise router is experiencing intermittent connectivity failures. Which replacement parts should we order?", "labels": ["technology"]}
+{"id": "RQ02", "split": "test", "query": "The ISR 4331 reloads every few days and the logs show power events", "labels": ["technology"]}
+{"id": "RQ03", "split": "test", "query": "Which NIM modules give us 8 PoE ports on a Catalyst 8200?", "labels": ["technology"]}
+{"id": "RQ04", "split": "test", "query": "Is the Catalyst 8000V suitable for running in AWS or Google Cloud?", "labels": ["technology"]}
+{"id": "RQ05", "split": "test", "query": "Explain how MCP servers let AI agents call enterprise tools", "labels": ["technology"]}
+{"id": "RQ06", "split": "test", "query": "What IBM products would help modernize our mainframe integration?", "labels": ["technology"]}
+{"id": "RQ07", "split": "test", "query": "Our ASR 1006-X fan tray alarm keeps firing - what do we do?", "labels": ["technology"]}
+{"id": "RQ08", "split": "test", "query": "How do we size DRAM on edge routers running SD-WAN and security?", "labels": ["technology"]}
+{"id": "RQ09", "split": "test", "query": "Which diagnostic instrument or replacement component best meets our laboratory requirements?", "labels": ["clinical"]}
+{"id": "RQ10", "split": "test", "query": "We need a whole-slide imaging system for primary diagnosis", "labels": ["clinical"]}
+{"id": "RQ11", "split": "test", "query": "What evidence exists for wearable IoT monitoring of heart rate to detect heart attacks?", "labels": ["clinical"]}
+{"id": "RQ12", "split": "test", "query": "Recommend clinical trials on knee exoskeleton rehabilitation", "labels": ["clinical"]}
+{"id": "RQ13", "split": "test", "query": "How do AI models improve glycemic control for type 1 diabetes?", "labels": ["clinical"]}
+{"id": "RQ14", "split": "test", "query": "Which special stains automation does Agilent offer for histology labs?", "labels": ["clinical"]}
+{"id": "RQ15", "split": "test", "query": "Are there phase 3 COVID-19 vaccine trials with posted results?", "labels": ["clinical"]}
+{"id": "RQ16", "split": "test", "query": "What machine learning methods detect knee abnormalities in imaging?", "labels": ["clinical"]}
+{"id": "RQ17", "split": "test", "query": "What are the financial, competitive, and operational risks associated with Cisco and Agilent?", "labels": ["sec"]}
+{"id": "RQ18", "split": "test", "query": "How much did Cisco spend on share buybacks and dividends in fiscal 2025?", "labels": ["sec"]}
+{"id": "RQ19", "split": "test", "query": "What does Agilent disclose about tariffs and China exposure?", "labels": ["sec"]}
+{"id": "RQ20", "split": "test", "query": "Summarize Cisco's cybersecurity risk management disclosures", "labels": ["sec"]}
+{"id": "RQ21", "split": "test", "query": "What is Agilent's segment breakdown and which segment grew fastest?", "labels": ["sec"]}
+{"id": "RQ22", "split": "test", "query": "Did Cisco's Splunk acquisition change its debt profile?", "labels": ["sec"]}
+{"id": "RQ23", "split": "test", "query": "What legal proceedings does Cisco report?", "labels": ["sec"]}
+{"id": "RQ24", "split": "test", "query": "Which technology investments could improve food security and sustainability outcomes?", "labels": ["csr", "technology"]}
+{"id": "RQ25", "split": "test", "query": "How does urbanization affect food security and diets?", "labels": ["csr"]}
+{"id": "RQ26", "split": "test", "query": "What financing is needed to end hunger by 2030?", "labels": ["csr"]}
+{"id": "RQ27", "split": "test", "query": "Which regions have the highest prevalence of undernourishment?", "labels": ["csr"]}
+{"id": "RQ28", "split": "test", "query": "How can our company's CSR program measure impact on nutrition?", "labels": ["csr"]}
+{"id": "RQ29", "split": "test", "query": "Is food insecurity worse for women than men?", "labels": ["csr"]}
+{"id": "RQ30", "split": "test", "query": "What does the FAO say about the cost of a healthy diet?", "labels": ["csr"]}
+{"id": "RQ31", "split": "test", "query": "Customers buying the Hikvision 4MP camera also buy what?", "labels": ["procurement"]}
+{"id": "RQ32", "split": "test", "query": "We are quoting a DSC PowerSeries Neo alarm kit - suggest add-on items", "labels": ["procurement"]}
+{"id": "RQ33", "split": "test", "query": "What are the strongest product associations in our order history?", "labels": ["procurement"]}
+{"id": "RQ34", "split": "test", "query": "Build a starter bundle for a small office intrusion alarm", "labels": ["procurement"]}
+{"id": "RQ35", "split": "test", "query": "Which detectors are frequently ordered with Bosch detector bases?", "labels": ["procurement"]}
+{"id": "RQ36", "split": "test", "query": "Our Cisco ISR routers keep failing; should we switch vendors given Cisco's financial outlook?", "labels": ["technology", "sec"]}
+{"id": "RQ37", "split": "test", "query": "We operate Agilent lab instruments over Cisco networks; assess vendor risks and network fixes", "labels": ["technology", "clinical", "sec"]}
+{"id": "RQ38", "split": "test", "query": "How can IoT and cloud networking reduce food loss in supply chains, and which Cisco platforms fit?", "labels": ["csr", "technology"]}
+{"id": "RQ39", "split": "test", "query": "Does Agilent's 10-K mention sustainability, and how does it relate to global food security?", "labels": ["sec", "csr"]}
+{"id": "RQ40", "split": "test", "query": "Which Agilent products support food safety testing, and how does that tie to SOFI hunger trends?", "labels": ["clinical", "csr"]}
+{"id": "RQ41", "split": "test", "query": "Our hospital network outages hurt diagnostics; recommend Cisco parts and lab continuity steps", "labels": ["technology", "clinical"]}
+{"id": "RQ42", "split": "test", "query": "Evaluate Cisco as a supplier: financial health, product fit for branches, and ESG", "labels": ["sec", "technology", "csr"]}
+{"id": "RQ43", "split": "test", "query": "We need cameras and NVRs for our lab; what bundle and how reliable is Cisco for the network?", "labels": ["procurement", "technology"]}
+{"id": "RQ44", "split": "test", "query": "Can RAG on Google Cloud help analyze clinical trial data for diabetes?", "labels": ["technology", "clinical"]}
+{"id": "RQ45", "split": "test", "query": "Rank Cisco and Agilent by exposure to supply chain disruption", "labels": ["sec"]}
+{"id": "RQ46", "split": "test", "query": "What tech does FAO recommend for monitoring food crises?", "labels": ["csr"]}
+{"id": "RQ47", "split": "test", "query": "Our C8300 shows CRC errors on the SFP port", "labels": ["technology"]}
+{"id": "RQ48", "split": "test", "query": "Which completed diabetes trials evaluated mobile app coaching?", "labels": ["clinical"]}
+{"id": "RQ49", "split": "test", "query": "Remaining Agilent share repurchase authorization?", "labels": ["sec"]}
+{"id": "RQ50", "split": "test", "query": "Glassbreak detector add-ons for an existing GE Interlogix install", "labels": ["procurement"]}
+{"id": "RQ51", "split": "test", "query": "How much did Google Cloud revenue grow according to Alphabet's latest annual report?", "labels": ["sec"]}
+{"id": "RQ52", "split": "test", "query": "How did Cisco's fiscal 2026 revenue compare with fiscal 2025?", "labels": ["sec"]}
+{"id": "RQ53", "split": "test", "query": "Should we build our RAG platform on Google Cloud given Alphabet's financial and regulatory risks?", "labels": ["technology", "sec"]}

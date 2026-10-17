@@ -1,0 +1,46 @@
+{"id": "R01", "domain": "technology", "query": "Which power supplies can a Catalyst 8300 use and what PoE budget do they give?", "answer_phrase": "pwr-cc1-650wac"}
+{"id": "R02", "domain": "technology", "query": "In SD-WAN mode which route processor and ESP does the ASR 1000 support?", "answer_phrase": "esp200-x"}
+{"id": "R03", "domain": "technology", "query": "How energy efficient is the Catalyst 8300 in terms of throughput per watt?", "answer_phrase": "throughput efficiency (gbps per watt)"}
+{"id": "R04", "domain": "technology", "query": "How much memory does the C8200-1N-4T come with and how can it be upgraded?", "answer_phrase": "c8200-1n-4t ships with 8 gb dram"}
+{"id": "R05", "domain": "technology", "query": "Can I use PoE modules on an ISR 4000 that runs DC power supplies?", "answer_phrase": "poe based modules may not be used"}
+{"id": "R06", "domain": "technology", "query": "Which routing protocols does the Catalyst 8300 support in Catalyst SD-WAN controller mode?", "answer_phrase": "overlay management protocol (omp)"}
+{"id": "R07", "domain": "technology", "query": "What does Google Cloud offer for remote Model Context Protocol servers?", "answer_phrase": "google cloud remote mcp servers"}
+{"id": "R08", "domain": "technology", "query": "How do AI agents discover what tools an MCP server exposes?", "answer_phrase": "mcp servers provide schemas describing their available tools"}
+{"id": "R09", "domain": "technology", "query": "What router families make up the ISR 4000 portfolio?", "answer_phrase": "isr 4400 series, the 4300 series and isr 4200 series"}
+{"id": "R10", "domain": "technology", "query": "What LAN/WAN combined modules are available for the Catalyst 8200 and what speeds do they support?", "answer_phrase": "lanwan modules are offered as 8-port rj45"}
+{"id": "R11", "domain": "technology", "query": "How is power redundancy provided on the ISR 4400?", "answer_phrase": "redundant power"}
+{"id": "R12", "domain": "technology", "query": "Which fan tray part numbers exist for the C8300 1RU platform?", "answer_phrase": "fan tray"}
+{"id": "R13", "domain": "sec", "query": "How much did Agilent's revenue grow in fiscal 2025?", "answer_phrase": "agilent's net revenue of $6,948 million in 2025"}
+{"id": "R14", "domain": "sec", "query": "What was Cisco's operating cash flow in fiscal 2025?", "answer_phrase": "cash provided by operating activities $14,193"}
+{"id": "R15", "domain": "sec", "query": "How much buyback authorization does Agilent have left?", "answer_phrase": "remaining authorization to repurchase up to approximately $1.9 billion"}
+{"id": "R16", "domain": "sec", "query": "Who is Agilent's chief executive officer?", "answer_phrase": "padraig mcdonnell"}
+{"id": "R17", "domain": "sec", "query": "How is Agilent mitigating tariff and trade pressures on margins?", "answer_phrase": "mitigation strategies through supply chain optimization"}
+{"id": "R18", "domain": "sec", "query": "Did Cisco repay the Splunk convertible notes?", "answer_phrase": "repayments of splunk convertible debt"}
+{"id": "R19", "domain": "sec", "query": "What was Cisco's total debt at the end of fiscal 2025?", "answer_phrase": "total debt $28,093"}
+{"id": "R20", "domain": "sec", "query": "What are Cisco's strategic priorities around AI?", "answer_phrase": "harness the power of ai and data"}
+{"id": "R21", "domain": "sec", "query": "What manufacturing and component supply risks does Cisco disclose?", "answer_phrase": "component shortages"}
+{"id": "R22", "domain": "sec", "query": "How did service provider and cloud orders trend for Cisco?", "answer_phrase": "product orders"}
+{"id": "R23", "domain": "csr", "query": "How does food insecurity differ between rural and urban populations?", "answer_phrase": "33.3 percent of adults living in rural areas"}
+{"id": "R24", "domain": "csr", "query": "How many young children were stunted worldwide in 2022?", "answer_phrase": "148.1 million (22.3 percent) were stunted"}
+{"id": "R25", "domain": "csr", "query": "What tool helps policymakers analyse urban agrifood systems?", "answer_phrase": "rapid urban food systems appraisal tool (rufsat)"}
+{"id": "R26", "domain": "csr", "query": "What does blended finance mean in the context of food security financing?", "answer_phrase": "blended finance. the strategic use of development"}
+{"id": "R27", "domain": "csr", "query": "Why is the financing gap for ending hunger hard to estimate?", "answer_phrase": "no coherent picture of the financing flows"}
+{"id": "R28", "domain": "csr", "query": "How is the affordability of a healthy diet calculated from household surveys?", "answer_phrase": "affordability of a healthy diet was obtained by comparing"}
+{"id": "R29", "domain": "csr", "query": "How many people faced hunger in 2023?", "answer_phrase": "713 and 757 million"}
+{"id": "R30", "domain": "csr", "query": "How does the report define an economic shock?", "answer_phrase": "an unexpected or unpredictable event that is external"}
+{"id": "R31", "domain": "csr", "query": "What risks do digital technologies pose for inclusive food systems?", "answer_phrase": "digital technologies"}
+{"id": "R32", "domain": "clinical", "query": "How does an LLM health agent help diabetes patients with their diet?", "answer_phrase": "use a food knowledge base as well as guidelines"}
+{"id": "R33", "domain": "clinical", "query": "How do you judge the clinical safety of glucose prediction errors?", "answer_phrase": "regions a and b are considered safe"}
+{"id": "R34", "domain": "clinical", "query": "Which ensemble machine learning models were used to predict COVID-19?", "answer_phrase": "random forest and xgboost algorithms"}
+{"id": "R35", "domain": "clinical", "query": "What edge/fog architectures were used for IoT disease prediction?", "answer_phrase": "bayesian network classifier and thread protocol"}
+{"id": "R36", "domain": "clinical", "query": "Which antiviral drugs were used to treat COVID-19 patients?", "answer_phrase": "lopinavir, ritonavir, ribavirin and favipiravir"}
+{"id": "R37", "domain": "clinical", "query": "How is subcutaneous insulin absorption modeled for automated insulin delivery?", "answer_phrase": "insulin on board and plasma insulin availability"}
+{"id": "R38", "domain": "clinical", "query": "Which Agilent instrument measures cellular respiration and glycolysis in real time?", "answer_phrase": "seahorse"}
+{"id": "R39", "domain": "clinical", "query": "What automated solution does Agilent offer for special stains?", "answer_phrase": "special stains"}
+{"id": "R40", "domain": "clinical", "query": "Can mobile apps improve type 2 diabetes self-management?", "answer_phrase": "mobile app"}
+{"id": "R41", "domain": "sec", "query": "How fast did Google Cloud revenue grow in 2025?", "answer_phrase": "google cloud revenues increased $15.5 billion from 2024 to 2025"}
+{"id": "R42", "domain": "sec", "query": "How large was Alphabet's revenue backlog at the end of 2025?", "answer_phrase": "$242.8 billion of remaining performance obligations"}
+{"id": "R43", "domain": "sec", "query": "What was Alphabet's remaining performance obligation at December 31, 2024?", "answer_phrase": "$93.2 billion of remaining performance obligations"}
+{"id": "R44", "domain": "sec", "query": "What was Cisco's total revenue in fiscal 2026 and how much did it grow?", "answer_phrase": "total revenue was $63.3 billion, an increase of 12%"}
+{"id": "R45", "domain": "sec", "query": "What drove Cisco's networking product growth in fiscal 2026?", "answer_phrase": "primarily driven by our ai infrastructure solutions"}
+{"id": "R46", "domain": "sec", "query": "What fine did the European Commission impose on Google over Android distribution?", "answer_phrase": "4.3 billion fine"}

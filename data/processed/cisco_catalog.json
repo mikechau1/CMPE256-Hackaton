@@ -1,0 +1,1856 @@
+[
+  {
+    "pid": "ASR1001-HX",
+    "series": "ASR 1000",
+    "description": "System, 8x10GE+8x1GE, 2xP/S, optional crypto ASR 1001-HX=",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 23
+  },
+  {
+    "pid": "ASR1001-X",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1001-X System, Crypto, 6 built-in GE, Dual P/S, Spare ASR 1001-HX",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 23
+  },
+  {
+    "pid": "ASR1002-HX",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1002-HX System, 4x10GE+4x1GE built-in, Dual P/S, optional crypto, spare",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 23
+  },
+  {
+    "pid": "ASR1002-X",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1002-X System, Crypto, 6 Built-In GE, Dual P/S, Spare ASR1004 Cisco ASR 1004 Chassis, Dual P/S",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 23
+  },
+  {
+    "pid": "ASR1006-X",
+    "series": "ASR 1000",
+    "description": "Table 3 March 16, 2021 Added reference for ThousandEyes agent hosting support Features and benefits,",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 27
+  },
+  {
+    "pid": "ASR1009-X",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1009-X Chassis, Spare ASR1013 Cisco ASR 1013 Chassis, Redundant P/S",
+    "component_type": "chassis",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 23
+  },
+  {
+    "pid": "ASR1000-ESP100",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Embedded Services Processor, 100 Gb Spare",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-ESP100-X",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Embedded Services Processor, 100 Gb Spare",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-ESP20",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Embedded Services Processor, 20 Gb, Spare",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-ESP200",
+    "series": "ASR 1000",
+    "description": ") \u25cf Offers easier management through embedded security services in the Cisco Flow Processor, with no additional service modules or blades",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 9
+  },
+  {
+    "pid": "ASR1000-ESP200-X",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Embedded Services Processor, 200 Gb Spare Cisco ASR 1000 Series route processor",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-ESP40",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Embedded Services Processor, 40 Gb Spare",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ESP-40",
+    "series": "ASR 1000",
+    "description": "] or ASR1000 Series",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 12
+  },
+  {
+    "pid": "ESP10-N",
+    "series": "ASR 1000",
+    "description": "), Cisco ASR 1000 Series 20-Gbps ESP (ASR1000-",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 14
+  },
+  {
+    "pid": "ESP100-X",
+    "series": "ASR 1000",
+    "description": ") with up to 142-Gbps crypto support throughput and",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 16
+  },
+  {
+    "pid": "ESP200-X",
+    "series": "ASR 1000",
+    "description": "without intra-chassis redundancy \u25cf Interface modules supported are EPA-",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 10
+  },
+  {
+    "pid": "ASR1000-2T",
+    "series": "ASR 1000",
+    "description": "+20X1GE= Cisco ASR 1000 Fixed Ethernet Line Card, 2X10GE + 20X1GE, Spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "ASR1000-6TGE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Fixed Ethernet Line Card, 6X10GE, Spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "ASR1000-MIP100",
+    "series": "ASR 1000",
+    "description": "\u25cf Incorporate multilayer security on ASR 1000 with simplified Cisco DNA licensing for SD- WAN and Routing",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 10
+  },
+  {
+    "pid": "ASR1000-SIP40",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 SPA Interface Processor 40, SPARE",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-10X10GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 10x10GE Ethernet Port Adapter, spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-18X1GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 18x1GE Ethernet Port Adapter, spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-1X100GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 1x100GE Ethernet Port Adapter, spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-1X40GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 1x40GE Ethernet Port Adapter (2 physical QSFP ports \u2013 optional license to enable 2nd port), spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-2X40GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 2x40GE Ethernet Port Adapter (Native QSFP), spare",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "FLA1-EPA-1X40GE",
+    "series": "ASR 1000",
+    "description": "",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "ASR1000-RP2",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Route Processor 2, Spare",
+    "component_type": "route_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-RP3",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 Route Processor 3, Spare",
+    "component_type": "route_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-RP3-32G-2P",
+    "series": "ASR 1000",
+    "description": "Cisco ASR1000 RP3 w/ 32 GB, 2 Pack",
+    "component_type": "route_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "ASR1000-RP3-64G-2P",
+    "series": "ASR 1000",
+    "description": "Cisco ASR1000 RP3 w/ 64 GB, 2 Pack",
+    "component_type": "route_processor",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "MEMUSB-1024FT",
+    "series": "ASR 1000",
+    "description": "= 1 GB USB Flash Token for Cisco ASR 1000 Series, Spare Table 9. Ordering information for processor modules",
+    "component_type": "storage",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 24
+  },
+  {
+    "pid": "EPA-CPAK-2X40GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 2x40GE Ethernet Port Adapter (breakout cable), spare",
+    "component_type": "transceiver",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "EPA-QSFP",
+    "series": "ASR 1000",
+    "description": "",
+    "component_type": "transceiver",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 10
+  },
+  {
+    "pid": "EPA-QSFP-1X100GE",
+    "series": "ASR 1000",
+    "description": "= Cisco ASR 1000 1x100GE QSFP Ethernet Port Adapter, spare",
+    "component_type": "transceiver",
+    "source": "datasheet-c78-731632.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/asr-1000-series-aggregation-services-routers/datasheet-c78-731632.pdf",
+    "page": 25
+  },
+  {
+    "pid": "NIM-LTEA-EA",
+    "series": "Catalyst 8200",
+    "description": "CAT6 LTE Advanced - North America and EMEA",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-LTEA-LA",
+    "series": "Catalyst 8200",
+    "description": "CAT6 LTE Advanced - APAC, ANZ, and LATAM * Supported with IOS-XE release 17.12.2 Memory, storage, and accessory options",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "P-LTEA-EA",
+    "series": "Catalyst 8200",
+    "description": "CAT6 LTE Advanced Pluggable - North America and EMEA",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "P-LTEA-LA",
+    "series": "Catalyst 8200",
+    "description": "CAT6 LTE Advanced Pluggable - APAC, ANZ, and LATAM",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "P-LTEA7-EAL",
+    "series": "Catalyst 8200",
+    "description": "* CAT7 LTE Advanced Pluggable - EMEA, APAC, and LATAM",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "P-LTEA7-JP",
+    "series": "Catalyst 8200",
+    "description": "* CAT7 LTE Advanced Pluggable - Japan",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "P-LTEA7-NA",
+    "series": "Catalyst 8200",
+    "description": "* CAT7 LTE Advanced Pluggable - North America",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "P-LTEAP18-GL",
+    "series": "Catalyst 8200",
+    "description": "CAT18 LTE Advanced Pro Pluggable - Global",
+    "component_type": "cellular_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C8200-1N",
+    "series": "Catalyst 8200",
+    "description": "",
+    "component_type": "chassis",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 5
+  },
+  {
+    "pid": "C8200-1N-4S",
+    "series": "Catalyst 8200",
+    "description": "",
+    "component_type": "chassis",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 13
+  },
+  {
+    "pid": "C8200-1N-4T",
+    "series": "Catalyst 8200",
+    "description": "Built-in end-to-end segmentation (VPNs), zone-based firewall (ZBFW), PKI, Cisco DNA Layer Security, Snort\u00ae IPS/IDS, URL filtering, Secure Malware Defense, Secure Malware Analytics, Application-Level Gateway (ALG) for ZBFW, Secure Internet Gateway (SIG)",
+    "component_type": "chassis",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 15
+  },
+  {
+    "pid": "C8200L-1N-4S",
+    "series": "Catalyst 8200",
+    "description": "Typical power (watts) 35W 33W",
+    "component_type": "chassis",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 13
+  },
+  {
+    "pid": "C8200L-1N-4T",
+    "series": "Catalyst 8200",
+    "description": "with a 4-core SoC architecture has a single core earmarked for Thousand Eyes agent in Service plane heavy mode. This platform doesn\u2019t allow for KVM and/or Docker container-based applications. Service plane heavy mode is the factory default core allocation with which all C8200",
+    "component_type": "chassis",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 7
+  },
+  {
+    "pid": "NIM-2BRI-NT/TE",
+    "series": "Catalyst 8200",
+    "description": "2-port BRI (NT and TE) NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-2BRI-S/T",
+    "series": "Catalyst 8200",
+    "description": "2-port ISDN BRI WAN interface card for data",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-2FXO",
+    "series": "Catalyst 8200",
+    "description": "2-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-2FXSP",
+    "series": "Catalyst 8200",
+    "description": "2-port FXS NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-2FXSP/4FXOP",
+    "series": "Catalyst 8200",
+    "description": "2-port FXS and 4-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-4BRI-NT/TE",
+    "series": "Catalyst 8200",
+    "description": "4-port BRI (NT and TE) NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-4BRI-S/T",
+    "series": "Catalyst 8200",
+    "description": "4-port ISDN BRI WAN interface card for data Channelized T1/E1 and ISDN PRI",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-4E/M",
+    "series": "Catalyst 8200",
+    "description": "4-port E/M NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-4FXO",
+    "series": "Catalyst 8200",
+    "description": "4-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-4FXSP",
+    "series": "Catalyst 8200",
+    "description": "4-port FXS NIM",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-PVDM-128",
+    "series": "Catalyst 8200",
+    "description": "128-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-PVDM-256",
+    "series": "Catalyst 8200",
+    "description": "256-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-PVDM-32",
+    "series": "Catalyst 8200",
+    "description": "32-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-PVDM-64",
+    "series": "Catalyst 8200",
+    "description": "64-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "ESP-256-CBC",
+    "series": "Catalyst 8200",
+    "description": ", HMAC-SHA1, ECDSA (256/384 bit) Integrity: SHA-1, SHA-2",
+    "component_type": "forwarding_processor",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 15
+  },
+  {
+    "pid": "C-NIM-1M",
+    "series": "Catalyst 8200",
+    "description": "1-port 2.5/1Gbps RJ-45 WAN, 90W Poe 802.3 af/at/bt NIM",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "C-NIM-2T",
+    "series": "Catalyst 8200",
+    "description": "2-port 100Mbps/1Gbps dual-mode RJ45/SFP, NIM with WAN MACSec LAN / LANWAN modules",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "C-NIM-8M",
+    "series": "Catalyst 8200",
+    "description": "* 8-port 100M/1/2.5Gbps switch NIM, UPoE+, LAN/WAN MACSec and Optional L3",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "C-NIM-8T",
+    "series": "Catalyst 8200",
+    "description": "8-port 100Mbps/1Gbps switch NIM, LAN/WAN MACSec and Optional L3",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-16A",
+    "series": "Catalyst 8200",
+    "description": "16-port Asynchronous Module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-1CE1T1-PRI",
+    "series": "Catalyst 8200",
+    "description": "1-port Multiflex trunk voice/channelized data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-1MFT-T1/E1",
+    "series": "Catalyst 8200",
+    "description": "1-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-1T",
+    "series": "Catalyst 8200",
+    "description": "1-port serial high-speed WAN interface card",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-24A",
+    "series": "Catalyst 8200",
+    "description": "24-port Asynchronous Module Wireless WAN (LTE) P-5GS6-R16SA-GL*",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-2CE1T1-PRI",
+    "series": "Catalyst 8200",
+    "description": "2-port Multiflex trunk voice/channelized data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-2MFT-T1/E1",
+    "series": "Catalyst 8200",
+    "description": "2-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-2T",
+    "series": "Catalyst 8200",
+    "description": "2-port serial high-speed WAN interface card",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-4MFT-T1/E1",
+    "series": "Catalyst 8200",
+    "description": "4-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-4SHDSL-EA",
+    "series": "Catalyst 8200",
+    "description": "Multi-mode G.SHDSL NIM ISDN BRI for Data",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-4T",
+    "series": "Catalyst 8200",
+    "description": "4-port serial high-speed WAN interface card Async WAN interface",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-8CE1T1-PRI",
+    "series": "Catalyst 8200",
+    "description": "8-port Multiflex trunk voice/channelized data T1/E1 module Serial WAN interface",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-8MFT-T1/E1",
+    "series": "Catalyst 8200",
+    "description": "8-port multiflex trunk voice/clear-channel data T1/E1 module DSL/broadband",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-ES2-4",
+    "series": "Catalyst 8200",
+    "description": "Cisco 4-port Gigabit Ethernet LAN switch NIM",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-ES2-8",
+    "series": "Catalyst 8200",
+    "description": "Cisco 8-port Gigabit Ethernet LAN switch NIM",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-ES2-8-P",
+    "series": "Catalyst 8200",
+    "description": "Cisco 8-port Gigabit Ethernet LAN switch NIM with PoE support Voice modules",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 10
+  },
+  {
+    "pid": "NIM-VA-B",
+    "series": "Catalyst 8200",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex B",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-VAB-A",
+    "series": "Catalyst 8200",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex A",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-VAB-M",
+    "series": "Catalyst 8200",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex M",
+    "component_type": "interface_module",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 11
+  },
+  {
+    "pid": "MEM-C8200-16GB",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 Edge Platform \u2013 16 GB DRAM Memory",
+    "component_type": "memory",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "MEM-C8200-32GB",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 Edge Platform \u2013 32 GB DRAM Memory",
+    "component_type": "memory",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "MEM-C8200-8GB",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 Edge Platform - 8 GB DRAM Memory",
+    "component_type": "memory",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-NIM-BLANK",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 NIM Blank",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-PIM-BLANK",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 PIM Blank * Supported with IOS-XE release 17.12.1 Optics and transceivers modules",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-RFID-1R",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 1RU Edge Platform - RFID",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-RM-19",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 1RU Edge Platform - Rack Mount kit - 19\"",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-RM-23",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 1RU Edge Platform - Rack Mount kit - 23\"",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8200-WM-1R",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8200 1RU Edge Platform \u2013 Wall Mount Kit",
+    "component_type": "mounting",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "PWR-CC1-150WAC",
+    "series": "Catalyst 8200",
+    "description": "optional external PSU for PoE Power maximum rating 100W",
+    "component_type": "power_supply",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 13
+  },
+  {
+    "pid": "M2USB-16G",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8000 Edge Platform \u2013 16 GB M.2 USB SSD Storage",
+    "component_type": "storage",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "M2USB-32G",
+    "series": "Catalyst 8200",
+    "description": "Cisco C8000 Edge Platform \u2013 32 GB M.2 USB SSD Storage",
+    "component_type": "storage",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SSD-M2SED-600G",
+    "series": "Catalyst 8200",
+    "description": "* Cisco C8000 Edge Platform \u2013 600GB M.2 NVMe Self-Encrypted Drive (SED) Storage",
+    "component_type": "storage",
+    "source": "nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-LTEA-EA",
+    "series": "Catalyst 8300",
+    "description": "CAT6 LTE Advanced - North America and EMEA",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "NIM-LTEA-LA",
+    "series": "Catalyst 8300",
+    "description": "CAT6 LTE Advanced - APAC, ANZ, and LATAM NIM Carrier Adapter Card",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEA-EA",
+    "series": "Catalyst 8300",
+    "description": "CAT6 LTE Advanced Pluggable - North America and EMEA",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEA-LA",
+    "series": "Catalyst 8300",
+    "description": "CAT6 LTE Advanced Pluggable - APAC, ANZ, and LATAM",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEA7-EAL",
+    "series": "Catalyst 8300",
+    "description": "* CAT7 LTE Advanced Pluggable - EMEA, APAC, and LATAM",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEA7-JP",
+    "series": "Catalyst 8300",
+    "description": "* CAT7 LTE Advanced Pluggable - Japan",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEA7-NA",
+    "series": "Catalyst 8300",
+    "description": "* CAT7 LTE Advanced Pluggable - North America",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "P-LTEAP18-GL",
+    "series": "Catalyst 8300",
+    "description": "CAT18 LTE Advanced Pro Pluggable - Global",
+    "component_type": "cellular_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "C8300-1N1S",
+    "series": "Catalyst 8300",
+    "description": "4T2X (1RU w/ 10G WAN)",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 6
+  },
+  {
+    "pid": "C8300-1N1S-4T2X",
+    "series": "Catalyst 8300",
+    "description": "is a 1RU platform with 1 SM slot and 1 NIM slot plus 2 x 10Gbps and 4 x 1Gbps embedded Layer3 Ethernet ports",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 4
+  },
+  {
+    "pid": "C8300-1N1S-6T",
+    "series": "Catalyst 8300",
+    "description": "is a 1RU platform with 1 SM slot and 1 NIM slot plus 6 x 1Gbps embedded Layer3 Ethernet ports Tables 2 and 3 detail platform specifications and performance, respectively. Table 2. Cisco Catalyst 8300 Series specifications",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 5
+  },
+  {
+    "pid": "C8300-2N2S",
+    "series": "Catalyst 8300",
+    "description": "4T2X (2RU w/ 10G WAN)",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 6
+  },
+  {
+    "pid": "C8300-2N2S-4T2X",
+    "series": "Catalyst 8300",
+    "description": ", it will reduce service plane resources from 5 to 4 cores. \u25cf In order to maximize the platforms performance and your investment, it\u2019s recommended to change into a Data plane heavy core allocation when container-based services are not being required.",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 8
+  },
+  {
+    "pid": "C8300-2N2S-6T",
+    "series": "Catalyst 8300",
+    "description": "is a 2RU platform with 2 SM and 2 NIM slots plus 6 x 1Gbps embedded Layer3 Ethernet ports",
+    "component_type": "chassis",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 4
+  },
+  {
+    "pid": "NIM-2BRI-NT/TE",
+    "series": "Catalyst 8300",
+    "description": "2-port BRI (NT and TE) NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-2BRI-S/T",
+    "series": "Catalyst 8300",
+    "description": "2-port ISDN BRI WAN interface card for data",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-2FXO",
+    "series": "Catalyst 8300",
+    "description": "2-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-2FXSP",
+    "series": "Catalyst 8300",
+    "description": "2-port FXS NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-2FXSP/4FXOP",
+    "series": "Catalyst 8300",
+    "description": "2-port FXS and 4-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-4BRI-NT/TE",
+    "series": "Catalyst 8300",
+    "description": "4-port BRI (NT and TE) NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-4BRI-S/T",
+    "series": "Catalyst 8300",
+    "description": "4-port ISDN BRI WAN interface card for data Channelized T1/E1 and ISDN PRI",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-4E/M",
+    "series": "Catalyst 8300",
+    "description": "4-port E/M NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-4FXO",
+    "series": "Catalyst 8300",
+    "description": "4-port FXO NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-4FXSP",
+    "series": "Catalyst 8300",
+    "description": "4-port FXS NIM",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-PVDM-128",
+    "series": "Catalyst 8300",
+    "description": "128-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-PVDM-256",
+    "series": "Catalyst 8300",
+    "description": "256-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-PVDM-32",
+    "series": "Catalyst 8300",
+    "description": "32-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-PVDM-64",
+    "series": "Catalyst 8300",
+    "description": "64-channel Voice DSP NIM Module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-16FXS/2FXO",
+    "series": "Catalyst 8300",
+    "description": "16-port FXS and 2-port FXO single-wide service module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-24FXS/4FXO",
+    "series": "Catalyst 8300",
+    "description": "24-port FXS and 4-port FXO single-wide service module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-72FXS",
+    "series": "Catalyst 8300",
+    "description": "72-port FXS double-wide service module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-8FXS/12FXO",
+    "series": "Catalyst 8300",
+    "description": "8-port FXS and 12-port FXO single-wide service module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-PVDM-1000",
+    "series": "Catalyst 8300",
+    "description": "1024-channel high-density voice DSP module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-PVDM-2000",
+    "series": "Catalyst 8300",
+    "description": "2048-channel high-density voice DSP module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-PVDM-3000",
+    "series": "Catalyst 8300",
+    "description": "3080-channel high-density voice DSP module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "SM-X-PVDM-500",
+    "series": "Catalyst 8300",
+    "description": "768-channel high-density voice DSP module",
+    "component_type": "dsp_voice_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "C8300-FAN",
+    "series": "Catalyst 8300",
+    "description": "2R-R, the NEBS compliant fan assembly, which will make the C8300 system NEBS compliant.",
+    "component_type": "fan",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 10
+  },
+  {
+    "pid": "C8300-FAN-1R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 1RU Edge Platform - Fan Tray Assembly",
+    "component_type": "fan",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-FAN-2R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 2RU Edge Platform Fan Tray Assembly",
+    "component_type": "fan",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "C8300-FAN-2R-R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 2RU Edge Platform Reverse Airflow Fan Tray Assembly for NEBS C-RFID-1R Cisco C8300 1RU Edge Platform - RFID",
+    "component_type": "fan",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "ESP-256-CBC",
+    "series": "Catalyst 8300",
+    "description": ", HMAC-SHA1, ECDSA (256/384 bit) Integrity: SHA-1, SHA-2 Security Built-in end-to-end segmentation (VPNs), ZBFW, PKI, Cisco DNA Layer Security, Snort",
+    "component_type": "forwarding_processor",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 19
+  },
+  {
+    "pid": "C-NIM-1M",
+    "series": "Catalyst 8300",
+    "description": "1-port 2.5/1Gbps RJ-45 WAN, 90W Poe 802.3 af/at/bt NIM",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-NIM-1X",
+    "series": "Catalyst 8300",
+    "description": "1-port 10Gbps SFP/SFP+ NIM with WAN MACSec",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-NIM-2T",
+    "series": "Catalyst 8300",
+    "description": "2-port 100Mbps/1Gbps dual-mode RJ45/SFP, NIM with WAN MACSec LAN modules",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-NIM-4X",
+    "series": "Catalyst 8300",
+    "description": "4-port 1/10Gbps SFP/SFP+ switch NIM, LAN/WAN MACSec & Optional L3",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-NIM-8M",
+    "series": "Catalyst 8300",
+    "description": "* 8-port 100M/1/2.5Gbps switch NIM, UPoE, LAN/WAN MACSec & Optional L3",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-NIM-8T",
+    "series": "Catalyst 8300",
+    "description": "8-port 100Mbps/1Gbps switch NIM, LAN/WAN MACSec & Optional L3",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-SM-16P4M2X",
+    "series": "Catalyst 8300",
+    "description": "Cisco 22-port Catalyst L2 switch module with UADP ASIC",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-SM-40P8M2X",
+    "series": "Catalyst 8300",
+    "description": "Cisco 50-port Catalyst L2 switch module with UADP ASIC",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "C-SM-NIM-ADPT",
+    "series": "Catalyst 8300",
+    "description": "Single-wide 2x NIM carrier module in SM-X form factor * Supported with IOS XE release 17.12.2. Memory, storage, and accessory options",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "NIM-16A",
+    "series": "Catalyst 8300",
+    "description": "16-port Asynchronous Module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-1CE1T1-PRI",
+    "series": "Catalyst 8300",
+    "description": "1-port Multiflex trunk voice/channelized data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-1MFT-T1/E1",
+    "series": "Catalyst 8300",
+    "description": "1-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 12
+  },
+  {
+    "pid": "NIM-1T",
+    "series": "Catalyst 8300",
+    "description": "1-port serial high-speed WAN interface card",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-24A",
+    "series": "Catalyst 8300",
+    "description": "24-port Asynchronous Module Wireless WAN (LTE) P-5GS6-R16SA-GL*",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-2CE1T1-PRI",
+    "series": "Catalyst 8300",
+    "description": "2-port Multiflex trunk voice/channelized data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-2MFT-T1/E1",
+    "series": "Catalyst 8300",
+    "description": "2-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-2T",
+    "series": "Catalyst 8300",
+    "description": "2-port serial high-speed WAN interface card",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-4MFT-T1/E1",
+    "series": "Catalyst 8300",
+    "description": "4-port multiflex trunk voice/clear-channel data T1/E1 module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-4SHDSL-EA",
+    "series": "Catalyst 8300",
+    "description": "Multi-mode G.SHDSL NIM ISDN BRI for Data",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-4T",
+    "series": "Catalyst 8300",
+    "description": "4-port serial high-speed WAN interface card Async WAN interface",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-8CE1T1-PRI",
+    "series": "Catalyst 8300",
+    "description": "8-port Multiflex trunk voice/channelized data T1/E1 module Serial WAN interface",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-8MFT-T1/E1",
+    "series": "Catalyst 8300",
+    "description": "8-port multiflex trunk voice/clear-channel data T1/E1 module DSL/broadband",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-ES2-4",
+    "series": "Catalyst 8300",
+    "description": "Cisco 4-port Gigabit Ethernet switch NIM",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-ES2-8",
+    "series": "Catalyst 8300",
+    "description": "Cisco 8-port Gigabit Ethernet switch NIM",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-ES2-8-P",
+    "series": "Catalyst 8300",
+    "description": "Cisco 8-port Gigabit Ethernet switch NIM with PoE support",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 11
+  },
+  {
+    "pid": "NIM-VA-B",
+    "series": "Catalyst 8300",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex B",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-VAB-A",
+    "series": "Catalyst 8300",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex A",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "NIM-VAB-M",
+    "series": "Catalyst 8300",
+    "description": "Multi-mode VDSL2/ADSL/2/2+ NIM Annex M",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "SM-X-1T3/E3",
+    "series": "Catalyst 8300",
+    "description": "1-port clear-channel T3/E3 service module",
+    "component_type": "interface_module",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 13
+  },
+  {
+    "pid": "MEM-C8300-16GB",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 Edge Platform - 16GB Memory",
+    "component_type": "memory",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "MEM-C8300-32GB",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 Edge Platform - 32GB Memory",
+    "component_type": "memory",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "MEM-C8300-8GB",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 Edge Platform - 8 GB Memory",
+    "component_type": "memory",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-NIM-BLANK",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 NIM Blank",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "C8300-PIM-BLANK",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 PIM Blank The fan tray is shipped default with the Cisco Catalyst 8300 Edge Series Platforms. Optics and transceivers modules",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "C8300-RM-19-1R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 1RU Edge Platform - Rack Mount kit - 19\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-RM-19-2R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 2RU Edge Platform - Rack Mount kit - 19\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-RM-23-1R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 1RU Edge Platform - Rack Mount kit - 23\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-RM-23-2R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 2RU Edge Platform - Rack Mount kit - 23\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-RM-4PT-1R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 1RU Edge Platform \u2013 4-post Rack Mount kit - 19\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-RM-4PT-2R",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 2RU Edge Platform - 4-post Rack Mount kit - 19\"",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "C8300-SM-BLANK",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8300 SM Blank",
+    "component_type": "mounting",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "PWR-CC1",
+    "series": "Catalyst 8300",
+    "description": "400WHV Power maximum rating",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 16
+  },
+  {
+    "pid": "PWR-CC1-1000WAC",
+    "series": "Catalyst 8300",
+    "description": "",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 16
+  },
+  {
+    "pid": "PWR-CC1-250WAC",
+    "series": "Catalyst 8300",
+    "description": "power supply. For more information this, previous, temporary measure, please visit https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/catalyst- 8300-series-pb.html.",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "PWR-CC1-400WAC",
+    "series": "Catalyst 8300",
+    "description": "is no longer shipped with our Catalyst 8300 1RU",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 15
+  },
+  {
+    "pid": "PWR-CC1-650WAC",
+    "series": "Catalyst 8300",
+    "description": "",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 16
+  },
+  {
+    "pid": "PWR-CC1-650WDC",
+    "series": "Catalyst 8300",
+    "description": "",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 16
+  },
+  {
+    "pid": "PWR-CC1-650WDCR",
+    "series": "Catalyst 8300",
+    "description": "power supplies with reverse airflow. This will automatically include C8300-FAN 2R-R, the NEBS compliant fan assembly, which will make the C8300 system NEBS compliant.",
+    "component_type": "power_supply",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 10
+  },
+  {
+    "pid": "M2USB-16G",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8000 Edge Platform - 16G M.2 USB SSD Storage",
+    "component_type": "storage",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "M2USB-32G",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8000 Edge Platform - 32G M.2 USB SSD Storage",
+    "component_type": "storage",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "SSD-M2NVME-2T",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8000 Edge Platform \u2013 2TB M.2 NVMe Self-Encrypted Drive (SED) Storage",
+    "component_type": "storage",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "SSD-M2SED-600G",
+    "series": "Catalyst 8300",
+    "description": "Cisco C8000 Edge Platform - 600GB M.2 NVMe Self-Encrypted Drive (SED) Storage",
+    "component_type": "storage",
+    "source": "datasheet-c78-744088.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf",
+    "page": 14
+  },
+  {
+    "pid": "ISR4331-DC/K9",
+    "series": "ISR 4000",
+    "description": "which support AC and DC power respectively, The ISR4400 can independently support an AC or a DC power supply on the same chassis. While the 4300 supports between 24V and 60Vdc, the 4400 supports between 48V and 60Vdc. The 4331",
+    "component_type": "chassis",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 18
+  },
+  {
+    "pid": "ISR4451-X/K9",
+    "series": "ISR 4000",
+    "description": "ISR 4451 with 4 onboard GE, 3 NIM slots, 1 ISC slot, 2 SM slots, 8 GB Flash Memory default, 2 GB DRAM default (data plane), 4 GB DRAM default (control plane) ISR4431/K9",
+    "component_type": "chassis",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 25
+  },
+  {
+    "pid": "FL-4220-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4220 Series Router for up to 1.2 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4220-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 35 Mbps to 75 Mbps Table 8.",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4320-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4320 Series Router for up to 1.6 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4320-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 50 Mbps to 100 Mbps ISR4221",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4330-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4330 Series Router for up to 1.8 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4330-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 100 Mbps to 300 Mbps ISR4321",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4350-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4350 Series Router for up to 2 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4350-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 200 Mbps to 400 Mbps ISR4331",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-44-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4450 Series Router for up to 3.8 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-44-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 500 Mbps to 1 Gbps ISR4351",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4430-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4430 Series Router for up to 3.4 Gbps CEF*",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4460-BOOST-K9",
+    "series": "ISR 4000",
+    "description": "(=) Booster Performance License for 4460 Series Router for up to 10 Gbps CEF* * Test results for IP Routing (CEF) @ IMIX",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  },
+  {
+    "pid": "FL-4460-PERF-K9",
+    "series": "ISR 4000",
+    "description": "Increases the performance from base performance 1.5 Gbps to 3 Gbps ISR4451",
+    "component_type": "license",
+    "source": "data-sheet-c78-732542.pdf",
+    "url": "https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf",
+    "page": 24
+  }
+]

@@ -1,0 +1,17 @@
+anthropic>=1.14
+chromadb>=1.5
+sentence-transformers>=6.0
+rank-bm25>=0.2.2
+mlxtend>=0.23
+pymupdf>=1.24
+beautifulsoup4>=4.12
+requests>=2.31
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+pydantic>=2.7
+python-dotenv>=1.0
+streamlit>=1.40
+fastapi>=0.135
+uvicorn>=0.30
+pytest>=8.0
